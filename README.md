@@ -12,11 +12,10 @@ Covers the entire process from data preprocessing, model training, feature extra
 ### 4.Efficient and Scalable:
 Built with scalability in mind, making it suitable for real-world applications like e-commerce platforms.
 ## Tools and Libraries Used
-Deep Learning Frameworks: TensorFlow/Keras or PyTorch (specify the one you used).
-Image Processing: OpenCV, PIL, or other relevant libraries.
+Deep Learning Frameworks: TensorFlow/Keras,ResNet50 CNN model .
 Data Handling: NumPy, Pandas.
-Visualization: Matplotlib, Seaborn (if applicable).
-Recommendation System: Cosine similarity, k-NN, or any custom algorithm for matching similar products.
+Visualization: Matplotlib.
+Recommendation System: Cosine similarity, k-NN.
 ## Workflow
 1.Dataset Preparation:
 Collected and preprocessed images of fashion products.
