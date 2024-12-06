@@ -19,16 +19,15 @@ Visualization: Matplotlib, Seaborn (if applicable).
 Recommendation System: Cosine similarity, k-NN, or any custom algorithm for matching similar products.
 ## Workflow
 1.Dataset Preparation:
-
 Collected and preprocessed images of fashion products.
-Labeled and categorized products for supervised training (if applicable).
+Labeled and categorized products for supervised training (if applicable). 
+
 2.Model Training:
-
 Trained a CNN model on the dataset to learn image features.
-Fine-tuned or transferred learning from a pre-trained model (e.g., VGG, ResNet).
+Fine-tuned or transferred learning from a pre-trained model (e.g., VGG, ResNet). 
+
 3.Feature Extraction:
+Extracted embeddings (feature vectors) from the trained model for each product image. 
 
-Extracted embeddings (feature vectors) from the trained model for each product image.
 4.Recommendation:
-
 Used similarity measures (e.g., cosine similarity) to recommend products visually similar to the input image.
