@@ -3,10 +3,14 @@
 This project implements a Fashion Product Recommendation System that suggests similar fashion products based on an input image. The system leverages the power of Convolutional Neural Networks (CNNs) for feature extraction and employs various machine learning techniques to train the model and generate recommendations effectively.
 
 ## Key Features
-### 1.Image-Based Recommendations: Users can upload an image of a fashion item, and the system recommends visually similar products.
-### 2.Deep Learning with CNN: Utilizes CNNs for extracting robust features from images, ensuring high-quality recommendations.
-### 3.End-to-End Pipeline: Covers the entire process from data preprocessing, model training, feature extraction, to generating recommendations.
-### 4.Efficient and Scalable: Built with scalability in mind, making it suitable for real-world applications like e-commerce platforms.
+### 1.Image-Based Recommendations:
+Users can upload an image of a fashion item, and the system recommends visually similar products.
+### 2.Deep Learning with CNN: 
+Utilizes CNNs for extracting robust features from images, ensuring high-quality recommendations.
+### 3.End-to-End Pipeline: 
+Covers the entire process from data preprocessing, model training, feature extraction, to generating recommendations.
+### 4.Efficient and Scalable:
+Built with scalability in mind, making it suitable for real-world applications like e-commerce platforms.
 ## Tools and Libraries Used
 Deep Learning Frameworks: TensorFlow/Keras or PyTorch (specify the one you used).
 Image Processing: OpenCV, PIL, or other relevant libraries.
