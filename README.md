@@ -2,6 +2,9 @@
 # Fashion Product Recommendation System
 This project implements a Fashion Product Recommendation System that suggests similar fashion products based on an input image. The system leverages the power of Convolutional Neural Networks (CNNs) for feature extraction and employs various machine learning techniques to train the model and generate recommendations effectively.
 
+## 📂Dataset:
+https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
+
 ## Key Features
 ### 1.Image-Based Recommendations:
 Users can upload an image of a fashion item, and the system recommends visually similar products.
